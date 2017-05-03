@@ -7,8 +7,8 @@ Nardelli A., Peona V., Toschi A., Mandrioli M., & Manicardi G. C. (2016). *Afit*
 DOI: https://doi.org/10.1017/S0007485316001061
 
 Affiliations:
-AN, AT, MM, GCM: University of Modena
-VP: University of Modena, University of Bologna, University of Uppsala
+AN, AT, MM, GCM: University of Modena  
+VP: University of Modena, University of Bologna, University of Uppsala  
 
 In order to run the tool from the terminal, type:  
 ```bash
