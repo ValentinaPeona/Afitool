@@ -12,7 +12,7 @@ VP: University of Modena, University of Bologna, University of Uppsala
 
 **Corresponding authors**  
 mauro.mandrioli[AT]unimo.it  
-valentina.peona[AT]gmail.com (for bioinformatics issues)  
+valentina.peona[AT]gmail.com or assistance@aphidfitness.net (for bioinformatics issues)  
 
 
 In order to run the tool from the terminal, type:  
