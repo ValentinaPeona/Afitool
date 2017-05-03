@@ -6,9 +6,14 @@ Nardelli A., Peona V., Toschi A., Mandrioli M., & Manicardi G. C. (2016). *Afit*
 
 DOI: https://doi.org/10.1017/S0007485316001061
 
-Affiliations:
+**Affiliations**  
 AN, AT, MM, GCM: University of Modena  
 VP: University of Modena, University of Bologna, University of Uppsala  
+
+**Corresponding authors**  
+mauro.mandrioli[AT]unimo.it  
+valentina.peona[AT]gmail.com (for bioinformatics issues)  
+
 
 In order to run the tool from the terminal, type:  
 ```bash
