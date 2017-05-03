@@ -8,7 +8,7 @@ DOI: https://doi.org/10.1017/S0007485316001061
 
 **Affiliations**  
 AN, AT, MM, GCM: University of Modena  
-VP: University of Modena, University of Bologna, University of Uppsala  
+VP: University of Modena, University of Bologna  
 
 **Corresponding authors**  
 mauro.mandrioli@unimo.it  
