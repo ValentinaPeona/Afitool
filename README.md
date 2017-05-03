@@ -11,8 +11,8 @@ AN, AT, MM, GCM: University of Modena
 VP: University of Modena, University of Bologna, University of Uppsala  
 
 **Corresponding authors**  
-mauro.mandrioli[AT]unimo.it  
-valentina.peona[AT]gmail.com or assistance@aphidfitness.net (for bioinformatics issues)  
+mauro.mandrioli@unimo.it  
+valentina.peona@gmail.com or assistance@aphidfitness.net (for bioinformatics issues)  
 
 
 In order to run the tool from the terminal, type:  
