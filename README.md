@@ -11,7 +11,7 @@ AN, AT, MM, GCM: University of Modena
 VP: University of Modena, University of Bologna  
 
 **Corresponding authors**  
-mauro.mandrioli@unimo.it  
+mauro.mandrioli@unimore.it  
 valentina.peona@gmail.com or assistance@aphidfitness.net (for bioinformatics issues)  
 
 
