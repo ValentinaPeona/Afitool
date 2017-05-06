@@ -1,4 +1,4 @@
-# Afitool
+# Afit
 Afit software for the analysis of fitness and invasiviness of Aphid insects    
 
 From the publication:  
