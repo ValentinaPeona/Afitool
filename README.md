@@ -19,3 +19,4 @@ In order to run the tool from the terminal, type:
 ```bash
 python Afitool.py
 ```
+Afitool_2.0 requires Python 3.5!
